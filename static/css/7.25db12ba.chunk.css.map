@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Volumes/workspace/develop/javascript/bonitaadmin-bui/source/src/pages/styles/Home.module.scss"],"names":[],"mappings":"AAAA,kIAEQ,oBAAuB,CAC1B","file":"7.25db12ba.chunk.css","sourcesContent":[".home-page {\n    h1,h2,h3,h4,h5 {\n        color: white !important;\n    }\n}"]}
